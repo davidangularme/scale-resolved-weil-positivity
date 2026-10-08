@@ -1,0 +1,58 @@
+{
+ "2": {
+  "eps_plus": {
+   "boundary": 2.4916784976302505e-11,
+   "certified_eps": 2.6162624225117633e-11,
+   "form_value": "[-6.03361e-28 +/- 1.20e-34]",
+   "certified": true
+  },
+  "eps_minus": {
+   "boundary": 1.7513383435238523e-07,
+   "certified_eps": -1.838905260700045e-07,
+   "form_value": "[-1.80878e-14 +/- 4.66e-20]",
+   "certified": true
+  }
+ },
+ "3": {
+  "eps_plus": {
+   "boundary": 3.4389856124641956e-08,
+   "certified_eps": 3.6109348930874056e-08,
+   "form_value": "[-8.05706e-28 +/- 4.94e-34]",
+   "certified": true
+  },
+  "eps_minus": {
+   "boundary": 1.536440717999984e-05,
+   "certified_eps": -1.6132627538999834e-05,
+   "form_value": "[-5.95320e-24 +/- 1.89e-30]",
+   "certified": true
+  }
+ },
+ "shift_2": {
+  "eta_plus": {
+   "boundary": 2.425385491914141e-08,
+   "certified_eta": 2.546654766509848e-08,
+   "form_value": "[-2.46388e-14 +/- 4.24e-20]",
+   "certified": true
+  },
+  "eta_minus": {
+   "boundary": -2.2159919642331216e-12,
+   "certified_eta": -2.3267915624447777e-12,
+   "form_value": "[-6.16824e-28 +/- 2.75e-34]",
+   "certified": true
+  }
+ },
+ "shift_3": {
+  "eta_plus": {
+   "boundary": 6.275477860419347e-07,
+   "certified_eta": 6.589251753440314e-07,
+   "form_value": "[-2.02468e-23 +/- 8.05e-30]",
+   "certified": true
+  },
+  "eta_minus": {
+   "boundary": -1.172729903000714e-09,
+   "certified_eta": -1.2313663981507496e-09,
+   "form_value": "[-7.85408e-28 +/- 1.45e-34]",
+   "certified": true
+  }
+ }
+}

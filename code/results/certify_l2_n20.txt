@@ -1,0 +1,6 @@
+lambda = 2  N = 20  dps = 160  primes: [2, 3]  build 226s
+max entry radius: [5.82e-119 +/- 1.73e-122]
+approx smallest eigenvalue (coefficient space): 9.31405e-60
+det Q (ball): [-1.0000 +/- 3e-10]
+Gershgorin worst gap (lower bound of diag minus off-diagonals): [9.31405e-60 +/- 2.15e-66]  at row 0
+CERTIFIED POSITIVE DEFINITE

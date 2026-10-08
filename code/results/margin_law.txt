@@ -1,0 +1,4 @@
+4.0 60 log10 margin -60.85 + eps2 -59.69 eps_last n=13 -25.74
+4.0 90 log10 margin -70.97 + eps2 -69.78 eps_last n=13 -31.74
+6.0 90 log10 margin -108.55 + eps2 -107.46 eps_last n=32 -30.03
+6.0 130 log10 margin -132.41 + eps2 -131.28 eps_last n=32 -38.8

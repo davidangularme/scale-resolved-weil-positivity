@@ -1,0 +1,2 @@
+2.0 30 log10 margin -12.11 + secs 35.0
+2.0 60 log10 margin -12.12 + secs 172.8

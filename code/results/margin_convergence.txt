@@ -1,0 +1,5 @@
+2.0 45 log10 margin -12.12 + eps2 -10.61 eps_last -7.47
+3.0 45 log10 margin -36.56 + eps2 -35.3 eps_last -12.26
+5.0 60 log10 margin -74.17 + eps2 -73.08 eps_last -17.53
+2.0 30 log10 margin -12.11 + secs 35.0
+2.0 60 log10 margin -12.12 + secs 172.8

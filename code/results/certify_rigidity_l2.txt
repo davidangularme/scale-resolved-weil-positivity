@@ -1,0 +1,11 @@
+lambda = 2, N = 24, dps = 142, primes [2, 3], build 184s, max radius [6.95e-119 +/- 4.70e-122]
+  Galerkin min eigenvalue (coefficient space) 9.70137e-72; W(f0) ball = [9.70137e-72 +/- 4.10e-78]
+  n = 2: eps_plus: boundary 2.49168e-11, at eps = 2.61626e-11 the form takes value [-6.03361e-28 +/- 1.20e-34] on f0 -> INDEFINITE CERTIFIED
+  n = 2: eps_minus: boundary 1.75134e-7, at eps = -1.83891e-7 the form takes value [-1.80878e-14 +/- 4.66e-20] on f0 -> INDEFINITE CERTIFIED
+  n = 3: eps_plus: boundary 3.43899e-8, at eps = 3.61093e-8 the form takes value [-8.05706e-28 +/- 4.94e-34] on f0 -> INDEFINITE CERTIFIED
+  n = 3: eps_minus: boundary 1.53644e-5, at eps = -1.61326e-5 the form takes value [-5.95320e-24 +/- 1.89e-30] on f0 -> INDEFINITE CERTIFIED
+  n = 2: eta_plus: boundary 2.42539e-8, at eta = 2.54665e-8 the form takes value [-2.46388e-14 +/- 4.24e-20] on f0 -> INDEFINITE CERTIFIED
+  n = 2: eta_minus: boundary -2.21599e-12, at eta = -2.32679e-12 the form takes value [-6.16824e-28 +/- 2.75e-34] on f0 -> INDEFINITE CERTIFIED
+  n = 3: eta_plus: boundary 6.27548e-7, at eta = 6.58925e-7 the form takes value [-2.02468e-23 +/- 8.05e-30] on f0 -> INDEFINITE CERTIFIED
+  n = 3: eta_minus: boundary -1.17273e-9, at eta = -1.23137e-9 the form takes value [-7.85408e-28 +/- 1.45e-34] on f0 -> INDEFINITE CERTIFIED
+total 203s

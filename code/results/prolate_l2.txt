@@ -1,0 +1,31 @@
+check c=1: lambda_0 = 0.5725817806 (ref 0.5725804...)
+Omega = 80: c = Omega*L = 55.451774, 2c/pi = 35.301696, sum lambda_n = 35.301696 (M = 170)
+  even modes: K(1e-20) = 56  (lambda_K = 5.656e-21),  K(1e-30) = 64  (lambda_K = 4.398e-31)
+  all modes:  number with lambda_n >= 1e-20: 56
+  a(Omega) = Re psi(1/4 + i Omega/2) - log pi = 2.5441431   (log(Omega/2) - log pi = 2.5441496)
+  lambda_n (even n) around the plunge:
+    n =  32: 0.984081
+    n =  36: 0.162049
+    n =  40: 0.000223487
+    n =  44: 5.93908e-8
+    n =  48: 5.86281e-12
+    n =  52: 2.58316e-16
+    n =  56: 5.65605e-21
+    n =  60: 6.629e-26
+    n =  64: 4.39813e-31
+    n =  68: 1.72706e-36
+Omega = 100: c = Omega*L = 69.314718, 2c/pi = 44.12712, sum lambda_n = 44.12712 (M = 198)
+  even modes: K(1e-20) = 66  (lambda_K = 3.346e-21),  K(1e-30) = 74  (lambda_K = 8.781e-31)
+  all modes:  number with lambda_n >= 1e-20: 66
+  a(Omega) = Re psi(1/4 + i Omega/2) - log pi = 2.767289   (log(Omega/2) - log pi = 2.7672931)
+  lambda_n (even n) around the plunge:
+    n =  42: 0.89979
+    n =  46: 0.0356025
+    n =  50: 3.53502e-5
+    n =  54: 1.07096e-8
+    n =  58: 1.41183e-12
+    n =  62: 9.31036e-17
+    n =  66: 3.34622e-21
+    n =  70: 6.96256e-26
+    n =  74: 8.78128e-31
+    n =  78: 6.96417e-36

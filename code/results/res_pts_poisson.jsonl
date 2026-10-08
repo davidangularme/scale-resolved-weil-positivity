@@ -1,0 +1,8 @@
+{"N": 10, "log10_mu0": -23.66, "log10_mu1": -18.81, "log10_ratio": 4.84, "alpha": 0.4844, "sign_mu0": "+", "secs": 0.0}
+{"N": 20, "log10_mu0": -43.64, "log10_mu1": -38.45, "log10_ratio": 5.19, "alpha": 0.2596, "sign_mu0": "+", "secs": 0.1}
+{"N": 30, "log10_mu0": -66.19, "log10_mu1": -60.08, "log10_ratio": 6.1, "alpha": 0.2035, "sign_mu0": "+", "secs": 0.2}
+{"N": 45, "log10_mu0": -97.4, "log10_mu1": -91.13, "log10_ratio": 6.28, "alpha": 0.1395, "sign_mu0": "+", "secs": 0.5}
+{"N": 60, "log10_mu0": -131.02, "log10_mu1": -124.43, "log10_ratio": 6.59, "alpha": 0.1098, "sign_mu0": "+", "secs": 1.1}
+{"N": 80, "log10_mu0": -175.35, "log10_mu1": -168.6, "log10_ratio": 6.75, "alpha": 0.0844, "sign_mu0": "+", "secs": 2.6}
+{"N": 100, "log10_mu0": -219.2, "log10_mu1": -212.01, "log10_ratio": 7.19, "alpha": 0.0719, "sign_mu0": "+", "secs": 5.8}
+{"N": 120, "log10_mu0": -263.83, "log10_mu1": -256.5, "log10_ratio": 7.33, "alpha": 0.0611, "sign_mu0": "+", "secs": 10.9}

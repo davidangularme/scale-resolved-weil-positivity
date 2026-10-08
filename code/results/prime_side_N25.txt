@@ -1,0 +1,18 @@
+{"N": 25, "lam": 3, "build_s": 25.6, "log10_mu0": -55.23014546093616, "log10_mu1": -50.10756826176417, "log10_ratio": 5.122577199171989, "sign_mu0": "+"}
+  zero of minimiser at r =    14.134725141735   nearest zeta zero =    14.134725141735   |diff| = 1.18e-26
+  zero of minimiser at r =    21.022039638772   nearest zeta zero =    21.022039638772   |diff| = 9.3e-23
+  zero of minimiser at r =    25.010857580146   nearest zeta zero =    25.010857580146   |diff| = 2.24e-20
+  zero of minimiser at r =     30.42487612586   nearest zeta zero =     30.42487612586   |diff| = 1.1e-16
+  zero of minimiser at r =    32.935061587739   nearest zeta zero =    32.935061587739   |diff| = 1.31e-14
+  zero of minimiser at r =    37.586178158794   nearest zeta zero =    37.586178158826   |diff| = 3.14e-11
+  zero of minimiser at r =     40.91871901775   nearest zeta zero =    40.918719012147   |diff| = 5.6e-9
+  zero of minimiser at r =    43.327073211216   nearest zeta zero =    43.327073280915   |diff| = 6.97e-8
+  zero of minimiser at r =    45.993533751722   nearest zeta zero =    48.005150881167   |diff| = 2.01
+  zero of minimiser at r =    48.005168439906   nearest zeta zero =    48.005150881167   |diff| = 1.76e-5
+  zero of minimiser at r =    49.773737335027   nearest zeta zero =    49.773832477672   |diff| = 9.51e-5
+  zero of minimiser at r =     52.97165289873   nearest zeta zero =    52.970321477714   |diff| = 0.00133
+  zero of minimiser at r =    56.412242342595   nearest zeta zero =    56.446247697063   |diff| = 0.034
+  zero of minimiser at r =    59.970168222702   nearest zeta zero =    59.347044002602   |diff| = 0.623
+  zero of minimiser at r =    60.345258628455   nearest zeta zero =     60.83177852461   |diff| = 0.487
+  zero of minimiser at r =     63.95483416788   nearest zeta zero =    65.112544048082   |diff| = 1.16
+  zero of minimiser at r =    68.393070428042   nearest zeta zero =    69.546401711174   |diff| = 1.15

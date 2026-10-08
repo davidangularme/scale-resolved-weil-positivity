@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Scale-Resolved Weil Positivity: Reconstruction of Zeta Zeros from Finitely Many Primes, a Detection Law, and a Certified Block"
+authors:
+  - family-names: Blum
+    given-names: Frédéric David
+    orcid: "https://orcid.org/0009-0009-2487-2974"
+    affiliation: Catalyst AI Research, Haifa
+date-released: 2026-10-08
+version: "33"
+doi: 10.5281/zenodo.18859602
+license: MIT
+repository-code: "https://github.com/davidangularme/scale-resolved-weil-positivity"
+keywords:
+  - Riemann hypothesis
+  - Weil explicit formula
+  - Weil positivity
+  - prolate spheroidal functions
+  - ball arithmetic
+  - Arb

@@ -1,0 +1,8 @@
+# Effective prime mass S_eff(lambda): L2-normalised top eigenvalue of the compressed shift operator
+#   P = sum_{n<=lam^2, log n < 2L} (Lambda(n)/sqrt n) [h_jk(log n)]   on L2[-L,L], cosine Galerkin with Gram
+# (script: see the inline listing in the v33 document, section "Certification with the compressed prime mass")
+lam=  2 N=30  S= 1.124   S_eff=max eig= 0.450   min eig= -0.450   S_eff/S=0.40   K_old~26.3  K_new~6.83
+lam=  3 N=30  S= 3.171   S_eff=max eig= 1.138   min eig= -0.882   S_eff/S=0.36   K_old~2.5e+03  K_new~42.8
+lam=  4 N=40  S= 4.972   S_eff=max eig= 1.816   min eig= -1.137   S_eff/S=0.37   K_old~1.15e+05  K_new~210
+lam=  5 N=40  S= 7.162   S_eff=max eig= 2.476   min eig= -1.356   S_eff/S=0.35   K_old~1.07e+07  K_new~910
+lam= 10 N=50  S=16.896   S_eff=max eig= 5.542   min eig= -2.007   S_eff/S=0.33   K_old~4.37e+15  K_new~6e+05
