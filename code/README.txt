@@ -18,3 +18,6 @@ Scripts (section of the paper):
   s_eff.py        compressed prime mass (7)
 Results in results/. Precision 2.6N+80 digits unless stated.
 Related work found after completion: X. Zhu, arXiv:2608.24827 (same reduction, certified positivity for L <= 0.8).
+
+Added 8 Oct 2026 (Observation 3' of the paper): window.py at lambda = 4, N = 120 (results/window_l4_n120.txt, converged: N > H = 100);
+the window w = f/Phi is positive, monotone, and at fixed t increases towards 1 with lambda (lambda = 2, 3, 4, 5).
