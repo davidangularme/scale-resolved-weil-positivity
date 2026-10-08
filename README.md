@@ -1,7 +1,7 @@
 # Scale-Resolved Weil Positivity
 
 Frédéric David Blum (Catalyst AI Research, Haifa) — October 2026.
-Companion repository of the preprint of the same title (Zenodo record: DOI to be added at publication). The earlier *Configuration Space Temporality* archive is a separate record, [10.5281/zenodo.18859602](https://doi.org/10.5281/zenodo.18859602); the document in `archive-v33/` is the audit of that archive and is included here because the paper cites it.
+Companion repository of the preprint of the same title, Zenodo record [10.5281/zenodo.23229271](https://doi.org/10.5281/zenodo.23229271). The earlier *Configuration Space Temporality* archive is a separate record, [10.5281/zenodo.18859602](https://doi.org/10.5281/zenodo.18859602); the document in `archive-v33/` is the audit of that archive and is included here because the paper cites it.
 
 ## Contents
 
