@@ -1,19 +1,20 @@
 {
-  "title": "Configuration Space Temporality: Complete Research Archive — v33: Corrections, a Non-Circular Weil-Form Test, and Scale-Resolved Weil Positivity",
+  "title": "Scale-Resolved Weil Positivity: Reconstruction of Zeta Zeros from Finitely Many Primes, a Detection Law, and a Certified Block",
   "upload_type": "publication",
   "publication_type": "preprint",
   "creators": [
     {"name": "Blum, Frédéric David", "affiliation": "Catalyst AI Research, Haifa", "orcid": "0009-0009-2487-2974"}
   ],
   "license": "CC-BY-4.0",
-  "keywords": ["Riemann hypothesis", "Weil explicit formula", "Weil positivity", "explicit formula", "prolate spheroidal functions", "ball arithmetic", "Arb", "zeta zeros", "Configuration Space Temporality"],
+  "keywords": ["Riemann hypothesis", "Weil explicit formula", "Weil positivity", "Weil criterion", "zeta zeros", "prolate spheroidal functions", "Paley-Wiener spaces", "ball arithmetic", "Arb", "computer-assisted proof"],
   "related_identifiers": [
-    {"identifier": "10.5281/zenodo.18859602", "relation": "isNewVersionOf", "resource_type": "publication-preprint"},
+    {"identifier": "https://github.com/davidangularme/scale-resolved-weil-positivity", "relation": "isSupplementedBy", "resource_type": "software"},
+    {"identifier": "10.5281/zenodo.18859602", "relation": "references", "resource_type": "publication-preprint"},
     {"identifier": "arXiv:2608.24827", "relation": "references"},
     {"identifier": "arXiv:2607.02828", "relation": "references"},
     {"identifier": "arXiv:2606.09096", "relation": "references"},
     {"identifier": "arXiv:2006.13771", "relation": "references"}
   ],
-  "version": "33",
+  "version": "1.0.0",
   "language": "eng"
 }

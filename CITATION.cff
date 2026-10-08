@@ -7,9 +7,9 @@ authors:
     orcid: "https://orcid.org/0009-0009-2487-2974"
     affiliation: Catalyst AI Research, Haifa
 date-released: 2026-10-08
-version: "33"
-doi: 10.5281/zenodo.18859602
+version: "1.0.0"
 license: MIT
+abstract: "Computer-assisted study of Weil positivity at finite scale: detection and reconstruction laws for zeta zeros from the primes up to lambda^2, the Phi-window structure of the minimiser, and ball-arithmetic certificates of positivity and rigidity of the truncated Weil form on [1/2, 2]."
 repository-code: "https://github.com/davidangularme/scale-resolved-weil-positivity"
 keywords:
   - Riemann hypothesis

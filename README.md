@@ -1,14 +1,14 @@
 # Scale-Resolved Weil Positivity
 
 Frédéric David Blum (Catalyst AI Research, Haifa) — October 2026.
-Companion repository of the Zenodo record [10.5281/zenodo.18859602](https://doi.org/10.5281/zenodo.18859602) (version 33).
+Companion repository of the preprint of the same title (Zenodo record: DOI to be added at publication). The earlier *Configuration Space Temporality* archive is a separate record, [10.5281/zenodo.18859602](https://doi.org/10.5281/zenodo.18859602); the document in `archive-v33/` is the audit of that archive and is included here because the paper cites it.
 
 ## Contents
 
 | Folder | What it holds |
 | --- | --- |
 | `paper/` | *Scale-Resolved Weil Positivity: Reconstruction of Zeta Zeros from Finitely Many Primes, a Detection Law, and a Certified Block* (PDF + Markdown source) |
-| `archive-v33/` | *CST/FDBC Archive v33 — Corrections and a Non-Circular Weil-Form Test* (PDF + Markdown): the audit of the earlier archive, the withdrawn claims, and the new results |
+| `archive-v33/` | *CST/FDBC Archive v33 — Corrections and a Non-Circular Weil-Form Test* (PDF + Markdown): supplementary note auditing the earlier CST/FDBC archive, with the withdrawn claims and the first computations behind the paper |
 | `code/` | All scripts (Python, mpmath, python-flint/Arb) and the result files quoted in the paper, including the ball-arithmetic certificates of Theorems 1–3 |
 
 ## Main results of the paper
